@@ -300,6 +300,10 @@ nav{
     color: orange;
 }
 
+.menu-top-bar a:hover{
+    color: orange;
+}
+
 
 
 /* btn-contect */
